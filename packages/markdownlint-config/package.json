@@ -1,0 +1,24 @@
+{
+  "name": "dragon-markdownlint-config",
+  "version": "1.0.8",
+  "main": "index.json",
+  "description": "龙腾团队的markdownlint配置",
+  "keywords": [
+    "markdown",
+    "lint",
+    "dragon"
+  ],
+  "author": "arwenfang",
+  "homepage": "https://github.com/SuperWenZai/lerna-demo#readme",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SuperWenZai/lerna-demo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SuperWenZai/lerna-demo/issues"
+  },
+  "peerDependencies": {
+    "markdownlint": "^0.34.0"
+  }
+}
