@@ -1,4 +1,4 @@
-# @dragon/markdownlint-config
+# markdownlint-config-dragon
 
 > 龙腾团队的markdownlint配置
 
@@ -9,7 +9,7 @@
 需要先行安装 [markdownlint](https://www.npmjs.com/package/markdownlint)：
 
 ```bash
-npm install @dragon/markdownlint-config markdownlint -D
+npm install markdownlint-config-dragon markdownlint -D
 ```
 
 ## 使用
@@ -18,6 +18,6 @@ npm install @dragon/markdownlint-config markdownlint -D
 
 ```json
 {
-  "extends": "@dragon/markdownlint-config"
+  "extends": "markdownlint-config-dragon"
 }
 ```
