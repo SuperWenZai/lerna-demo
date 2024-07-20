@@ -2,6 +2,7 @@
   "name": "@dragon/dragon-markdownlint-config",
   "version": "0.1.4",
   "main": "index.json",
+  "private": false,
   "description": "龙腾团队的markdownlint配置",
   "keywords": [
     "markdown",
@@ -20,5 +21,6 @@
   },
   "peerDependencies": {
     "markdownlint": "^0.34.0"
-  }
+  },
+  "gitHead": "57a01bcc3a08123390a6e98106d3519950141a9f"
 }
