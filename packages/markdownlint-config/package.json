@@ -1,6 +1,6 @@
 {
   "name": "markdownlint-config-dragon",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "main": "index.json",
   "description": "龙腾团队的markdownlint配置",
   "keywords": [
