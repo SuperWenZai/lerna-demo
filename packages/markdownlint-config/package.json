@@ -1,5 +1,5 @@
 {
-  "name": "@dragon/dragon-markdownlint-config",
+  "name": "@dragon/markdownlint-config",
   "version": "0.1.5",
   "main": "index.json",
   "private": false,
@@ -22,5 +22,5 @@
   "peerDependencies": {
     "markdownlint": "^0.34.0"
   },
-  "gitHead": "57a01bcc3a08123390a6e98106d3519950141a9f"
+  "gitHead": "14efb0d051adbd6cd1b7936b892349bc7f9d1c5f"
 }
