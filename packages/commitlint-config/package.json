@@ -1,5 +1,5 @@
 {
-  "name": "commitlint-config-dragon",
+  "name": "commitlint-config-dragonpass",
   "version": "0.2.5",
   "main": "index.js",
   "description": "龙腾团队的commitlint配置",
@@ -20,5 +20,6 @@
   },
   "dependencies": {
     "conventional-changelog-conventionalcommits": "^4.5.0"
-  }
+  },
+  "gitHead": "51ae49ebb2820322701cb1605f0804b25c98a4e5"
 }

@@ -1,4 +1,4 @@
-# `commitlint-config-dragon`
+# `commitlint-config-dragonpass`
 
 > 龙腾团队的 commitlint配置
 
@@ -9,7 +9,7 @@
 使用时，需要安装 [@commitlint/cli](https://www.npmjs.com/package/@commitlint/cli)：
 
 ```bash
-npm install commitlint-config-dragon @commitlint/cli --save-dev
+npm install commitlint-config-dragonpass @commitlint/cli --save-dev
 ```
 
 ## 使用
@@ -18,7 +18,7 @@ npm install commitlint-config-dragon @commitlint/cli --save-dev
 
 ```javascript
 module.exports = {
-  extends: ['commitlint-config-dragon'],
+  extends: ['commitlint-config-dragonpass'],
 };
 ```
 
