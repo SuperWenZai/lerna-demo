@@ -1,0 +1,24 @@
+{
+  "name": "commitlint-config-dragon",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "龙腾团队的commitlint配置",
+  "keywords": [
+    "dragon",
+    "commit",
+    "lint"
+  ],
+  "author": "arwenfang",
+  "homepage": "https://github.com/SuperWenZai/lerna-demo#readme",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SuperWenZai/lerna-demo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SuperWenZai/lerna-demo/issues"
+  },
+  "dependencies": {
+    "conventional-changelog-conventionalcommits": "^4.5.0"
+  }
+}
