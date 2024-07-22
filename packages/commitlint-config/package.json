@@ -1,6 +1,6 @@
 {
   "name": "commitlint-config-dragonpass",
-  "version": "0.2.6",
+  "version": "0.2.7",
   "main": "index.js",
   "description": "龙腾团队的commitlint配置",
   "keywords": [
